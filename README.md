@@ -1,3 +1,3 @@
 # python-data-analysis_Li.W
 
-Liwang1111
+Repository for Python for Data Analysis, 2nd Edition
